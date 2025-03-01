@@ -31,3 +31,6 @@ I was responsible for developing the backend of the application, including:
 - Creating the database models and setting up the MySQL database.
 - Writing unit and integration tests for the backend endpoints.
 - Ensuring secure authentication and authorization using JWT and middleware.
+
+## Video showing the application
+You can see using of this web application on the video on youtube: [video](https://www.youtube.com/watch?v=TZofuo1Y7eI)
